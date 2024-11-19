@@ -13,6 +13,8 @@ Hello! I am Abhinav Garg, a passionate student focused on learning and growing i
 
 ## Education
 
+![MNIT](https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Mnit_logo.png/100px-Mnit_logo.png)
+
 | **Category**           | **Details**                        |
 |------------------------|------------------------------------|
 | **College Name**     |   MNIT Jaipur              |
