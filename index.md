@@ -10,6 +10,7 @@ Hello! I am Abhinav Garg, a passionate student focused on learning and growing i
 
 - **Machine Learning**
 - **Cybersecurity**
+- **Robotics**
 
 ## Education
 
